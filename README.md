@@ -6,6 +6,8 @@ This repository is designed for anyone who wants to **master JavaScript by actua
 Everything is **clean**, **progressive**, and **fully executable**.  
 Every folder contains an **HTML + CSS + JS setup**, and every script includes **comments that teach, not ramble**.
 
+---
+
 ## 📘 Overview
 
 **Author:** Tezas  
