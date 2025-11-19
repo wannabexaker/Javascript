@@ -107,3 +107,14 @@ Reuse, modify, and share — credit the author.
 Created by Tezas  
 Network engineer • Developer • Student  
 Decided that learning JavaScript should be zero bullshit, structured, and a little bit funny.
+
+---
+
+## 🙌 Acknowledgment
+
+This JavaScript project follows a simple truth: someone has to teach you the fundamentals before you can build anything that actually works.
+
+Credit goes to **Michail Kasapoglou**, whose teaching approach built the foundation that made this entire JS exercise series possible. The lessons here are rewritten and adapted in my own style, but the mindset and structure come from his guidance.
+
+Thumbs up. 👍
+
