@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "Javascript"
+abstract: "JavaScript examples and learning projects"
+authors:
+  - name: "Ioannis"
+    alias: "wannabexaker"
+    website: "https://github.com/wannabexaker"
+repository-code: "https://github.com/wannabexaker/Javascript"
+url: "https://github.com/wannabexaker/Javascript"
+license: Apache-2.0
+date-released: "2025-11-18"
+keywords:
+  - "javascript, web, education"
+  - "web, education"
